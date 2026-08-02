@@ -32,3 +32,18 @@ Developed collaboratively during Semester 3:
 * **Joel Koshy** – Co-Developer ([Joel's GitHub Profile](https://github.com/Joel1234-cpu))
 * **Gaurav Pal** – Frontend Developer
 * **Gopal Nai** – Data Anylist
+
+
+
+
+
+<img width="1366" height="768" alt="MindSight AI - Personal - Microsoft​ Edge 25-Oct-25 10_33_43 PM" src="https://github.com/user-attachments/assets/eb7fc679-ae5e-44bb-8ecf-8037cb643771" />
+
+
+
+
+<img width="1366" height="768" alt="MindSight AI - Personal - Microsoft​ Edge 25-Oct-25 10_34_29 PM" src="https://github.com/user-attachments/assets/9ebec768-e74e-4ad3-96ad-9e84287e8828" />
+
+
+
+
