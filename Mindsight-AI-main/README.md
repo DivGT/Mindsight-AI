@@ -26,7 +26,7 @@ Settings default to SQLite for local development.
 
 
 
-## 👥 Team Collaboration
+## Team Collaboration
 Developed collaboratively during Semester 3:
 * **Divyanshu Gupta** – Core Developer (Architecture, Logic, & Modules)
 * **Joel Koshy** – Co-Developer ([Joel's GitHub Profile](https://github.com/Joel1234-cpu))
